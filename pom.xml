@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.ljf.tt</groupId>
+    <artifactId>ttw</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ljf-common</module>
+        <module>ljf-coupon</module>
+        <module>ljf-member</module>
+        <module>ljf-order</module>
+        <module>ljf-product</module>
+        <module>ljf-ware</module>
+    </modules>
+
+
+</project>
